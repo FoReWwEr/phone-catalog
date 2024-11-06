@@ -6,8 +6,9 @@ This app provides features such as toggling product options, adding items to the
 1) React: A JavaScript library for building user interfaces.
 2) TypeScript: JavaScript with syntax for types.
 3) React Router: A library for routing in React applications.
-4) Flickity: A library for creating touch, responsive, and fast carousels.
-5) SCSS: A powerful CSS preprocessor for maintaining clean and modular styling.
+4) SCSS: A powerful CSS preprocessor for maintaining clean and modular styling.
+5) BEM Methodology: For structuring CSS classes in a modular and maintainable way.
+6) Mobile First: For designing and developing with a focus on mobile devices first, then scaling up for larger screens.
 
 # 🚀 Getting Started
 1) Repository Clone: git clone https://github.com/FoReWwEr/phone-catalog.git
